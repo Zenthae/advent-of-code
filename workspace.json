@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "day01": "apps/day01",
+    "day02": "apps/day02",
     "inputs": "libs/inputs"
   }
 }
