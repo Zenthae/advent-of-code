@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@advent-of-code/inputs": ["libs/inputs/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

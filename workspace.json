@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "day01": "apps/day01",
+    "inputs": "libs/inputs"
+  }
 }
